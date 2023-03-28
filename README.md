@@ -1,3 +1,5 @@
+Here is a link to the dashboard: https://shwetajoshi05.github.io/belly-button-challenge/
+
 # belly-button-challenge
 
 Background
